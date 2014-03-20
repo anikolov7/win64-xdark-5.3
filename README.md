@@ -11,7 +11,7 @@ I am also NOT at fault if your computer does not act in a desirable manner as a 
 
 --------------
 
-**Installation Instructions -**
+#####**Installation Instructions -**#####
 
 • Find an 8 gb or larger USB flash drive.
 
