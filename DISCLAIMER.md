@@ -1,12 +1,12 @@
 #DISCLAIMER#
 
-  include disclaimer.c
-  
-  I, alp1ne, do not claim ownership of any code contained in this repo.
-  I am in no way affliated in any way shape or form, with Microsoft Corp.
-  Windows, Microsoft, WIndows 7, Windows NT, and Internet Explorer and
-  their respective trademarks and related items included are property of
-  the Microsoft Corporation.
+    include disclaimer.c
+    
+    I, alp1ne, do not claim ownership of any code contained in this repo.
+    I am in no way affliated in any way shape or form, with Microsoft Corp.
+    Windows, Microsoft, WIndows 7, Windows NT, and Internet Explorer and
+    their respective trademarks and related items included are property of
+    the Microsoft Corporation.
    
 ##NO COPYRIGHT INFRINGEMENT INTENDED##
 
