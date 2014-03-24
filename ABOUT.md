@@ -1,6 +1,7 @@
-Original Files crated by: skat666
+#About xDark Deluxe 5.3
+##Original Files crated by: skat666
+##Re-built, tweaked, tested, and uploaded by: alp1ne dev
 
-Re-Builded, tewaked & tested by:mr. Citr3x
 
 Installation Requirements:
 
@@ -50,27 +51,21 @@ Integrated Updates:
 
 * 30 Days Trial
 
-xDark™ ISO Info:
+##.wim info
 
-* Uncompressed Size: 8,62 GB
+MD5: 
+SHA-1: 
 
-* xdark_v5.2.iso
-
-CRC32: 6FF1FBC7
-MD5: AA8791D0C370FA033DC3EFEF8D7667E5
-SHA-1: A5652B78237C5B8E133F2D9659EF9ACCF16C67BB
-
-
+##More Info
 
 Services: 
 
 º Disabled:
 
-* Windows BackUp
 * Parental ControlS
 * Remote Registry
 * Hibernation
-* Disk Defragmenter
+* Stock Disk Defragmenter
 * Offline Files
 * Windows Error Reporting Service
 * Program Compatibility Assistant Service
@@ -119,31 +114,8 @@ Services:
 * Clear Temporary Folder
 * Appearance
 
-###xDark™ Special Context Menu:
+###xDark™ v5.3 Notes: 
 
-* Copy Path(s)
-* Copy Contents
-* Command Prompt
-* Calculate Checksum
-* Explore Here
-* Hex Edit
-* Batch Rename
-* Search and Replace
-* Sign Files
-* Select by Type
-* Touch Files
-* Path Operations
-* Pack to Folder
-* Open in Notepad
-* Select by Type
-* Mount Path as Virtual Drive
-* iPhone PNGs
-
-###xDark™ v5.2 Notes: 
-
-* xDark™ Exclusive Default Theme
-* xDark™ 4 Seasons Dark Orb Start Button 
-* xDark™ Exclusive Lights In The Dark Systems Sounds Scheme
 * 3 xDark™ System Cursors
 * xDark™ HD Exclusive System Icons (Almost All System Icons Are Customized)
 * xDark™ Exclusive GodMode Custom Panel and GodMode Creator
@@ -152,8 +124,6 @@ Services:
 * xDark™ Exlusive Integrated Shell On Top
 * xDark™ Exclusive Lights In The Dark Edition Branding
 * Hard Disk Changes to xDark™ HDD Default
-* xDark™ Unwelcome Center
-* xDark™ Gadget Gallery + Extra Black Gadgtes
 * xDark™ Context Menu & Folder Menu
 * xDark™ Network & Internet Optimized
 * Super xDark™ Administrator
